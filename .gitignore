@@ -13,4 +13,5 @@ Icon
 .loadpath
 bin/
 tmp/
+target/
 .metadata
