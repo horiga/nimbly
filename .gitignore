@@ -4,3 +4,13 @@
 *.jar
 *.war
 *.ear
+
+.DS_Store
+Icon
+._*
+
+.settings/
+.loadpath
+bin/
+tmp/
+.metadata
